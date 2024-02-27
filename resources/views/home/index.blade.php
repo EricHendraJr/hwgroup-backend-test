@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('container')
-<h1 class="text-center mb-5">Available Books List</h1>
+<h1 class="text-center mb-5">Rented Books List</h1>
 <div class="card">
     <div class="card-body">
         <table class="table">
